@@ -2,7 +2,7 @@ https://www.kaggle.com/datasets/pyatakov/india-agriculture-crop-production
 
 Link for Demonstration video
 
-https://drive.google.com/file/d/143zgJ2TfFVRwFKx-KPVyyCDq3gCtwo8-/view?usp=sharing
+https://drive.google.com/file/d/143zgJ2TfFVRwFKx-KPVyyCDq3gCtwo8-/view?usp=drivesdk
 
 Link for Dashboard 1
 
